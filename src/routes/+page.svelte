@@ -2,6 +2,7 @@
 	import TodoForm from '../components/TodoForm.svelte';
 	import { todos } from '../stores/todoStore.js';
 	import Todo from '../components/Todo.svelte';
+	import About from '../components/About.svelte';
 </script>
 
 <div class="text-slate-800 max-w-lg mx-auto placeholder-cyan-100">
